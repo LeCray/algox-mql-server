@@ -1,0 +1,116 @@
+0	02:39:51.681	Script Examples\DLL\DLLSampleTester EURUSD,Daily: loaded successfully
+3	02:40:04.854	Cannot load 'DLLSample.dll' [126]
+1	02:40:04.854	Cannot call 'DLLSample.dll::GetIntValue', 'DLLSample.dll' is not loaded
+1	02:40:04.854	DLLSampleTester EURUSD,Daily: unresolved import function call
+3	02:40:04.854	DLLSampleTester EURUSD,Daily: not initialized
+0	02:40:04.854	DLLSampleTester EURUSD,Daily: uninit reason 8
+0	02:40:04.857	Script DLLSampleTester EURUSD,Daily: removed
+0	02:41:20.857	Compiling 'Agent'
+0	02:41:24.560	Compiling 'Examples\TestDLL'
+0	02:41:27.911	Script Examples\DLL\DLLSampleTester AUDUSD,H1: loaded successfully
+1	02:41:29.927	Cannot call 'DLLSample.dll::GetIntValue', DLL is not allowed
+1	02:41:29.966	DLLSampleTester AUDUSD,H1: unresolved import function call
+3	02:41:29.967	DLLSampleTester AUDUSD,H1: not initialized
+0	02:41:29.967	DLLSampleTester AUDUSD,H1: uninit reason 8
+0	02:41:29.972	Script DLLSampleTester AUDUSD,H1: removed
+0	02:42:21.049	Script Examples\DLL\DLLSampleTester EURUSD,Daily: loaded successfully
+1	02:42:23.383	Cannot call 'DLLSample.dll::GetIntValue', DLL is not allowed
+1	02:42:23.383	DLLSampleTester EURUSD,Daily: unresolved import function call
+3	02:42:23.383	DLLSampleTester EURUSD,Daily: not initialized
+0	02:42:23.383	DLLSampleTester EURUSD,Daily: uninit reason 8
+0	02:42:23.386	Script DLLSampleTester EURUSD,Daily: removed
+0	02:43:55.421	Script Examples\DLL\DLLSampleTester EURUSD,Daily: loaded successfully
+1	02:43:57.884	Cannot call 'DLLSample.dll::GetIntValue', DLL is not allowed
+1	02:43:57.884	DLLSampleTester EURUSD,Daily: unresolved import function call
+3	02:43:57.884	DLLSampleTester EURUSD,Daily: not initialized
+0	02:43:57.884	DLLSampleTester EURUSD,Daily: uninit reason 8
+0	02:43:57.887	Script DLLSampleTester EURUSD,Daily: removed
+0	02:44:03.562	Script Examples\DLL\DLLSampleTester EURUSD,Daily: loaded successfully
+1	02:44:06.304	Cannot call 'DLLSample.dll::GetIntValue', DLL is not allowed
+1	02:44:06.304	DLLSampleTester EURUSD,Daily: unresolved import function call
+3	02:44:06.304	DLLSampleTester EURUSD,Daily: not initialized
+0	02:44:06.304	DLLSampleTester EURUSD,Daily: uninit reason 8
+0	02:44:06.307	Script DLLSampleTester EURUSD,Daily: removed
+0	02:49:58.237	Script Examples\TestDLL AUDUSD,H1: loaded successfully
+0	02:49:58.356	TestDLL AUDUSD,H1: initialized
+0	02:49:58.357	TestDLL AUDUSD,H1: TEST DLL STARTED
+0	02:49:58.357	TestDLL AUDUSD,H1: uninit reason 0
+0	02:49:58.407	Script TestDLL AUDUSD,H1: removed
+0	02:50:08.832	Script Examples\TestDLL AUDUSD,H1: loaded successfully
+0	02:50:08.912	TestDLL AUDUSD,H1: initialized
+0	02:50:08.912	TestDLL AUDUSD,H1: TEST DLL STARTED
+0	02:50:08.912	TestDLL AUDUSD,H1: uninit reason 0
+0	02:50:08.940	Script TestDLL AUDUSD,H1: removed
+0	02:50:14.994	Script Examples\TestDLL EURUSD,Daily: loaded successfully
+0	02:50:15.027	TestDLL EURUSD,Daily: initialized
+0	02:50:15.028	TestDLL EURUSD,Daily: TEST DLL STARTED
+0	02:50:15.028	TestDLL EURUSD,Daily: uninit reason 0
+0	02:50:15.031	Script TestDLL EURUSD,Daily: removed
+0	02:50:16.929	Script Examples\TestDLL EURUSD,Daily: loaded successfully
+0	02:50:16.953	TestDLL EURUSD,Daily: initialized
+0	02:50:16.953	TestDLL EURUSD,Daily: TEST DLL STARTED
+0	02:50:16.953	TestDLL EURUSD,Daily: uninit reason 0
+0	02:50:16.956	Script TestDLL EURUSD,Daily: removed
+0	02:50:18.898	Script Examples\TestDLL EURUSD,Daily: loaded successfully
+0	02:50:18.921	TestDLL EURUSD,Daily: initialized
+0	02:50:18.922	TestDLL EURUSD,Daily: TEST DLL STARTED
+0	02:50:18.922	TestDLL EURUSD,Daily: uninit reason 0
+0	02:50:18.925	Script TestDLL EURUSD,Daily: removed
+0	03:11:10.338	Compiling 'Examples\TestDLL'
+0	03:11:13.944	Compiling 'Examples\DLL\DLLSampleTester'
+0	03:11:17.632	Expert TestingDll AUDUSD,H1: loaded successfully
+1	03:11:20.394	Cannot call 'DLLSample.dll::GetIntValue', DLL is not allowed
+1	03:11:20.408	TestingDll AUDUSD,H1: unresolved import function call
+3	03:11:20.442	TestingDll AUDUSD,H1: not initialized
+0	03:11:20.442	TestingDll AUDUSD,H1: uninit reason 8
+0	03:11:20.486	Expert TestingDll AUDUSD,H1: removed
+0	03:23:50.107	Script Examples\DLL\DLLSampleTester AUDUSD,H1: loaded successfully
+3	03:23:50.174	Cannot load 'DLLSample.dll' [126]
+1	03:23:50.175	Cannot call 'DLLSample.dll::GetIntValue', 'DLLSample.dll' is not loaded
+1	03:23:50.191	DLLSampleTester AUDUSD,H1: unresolved import function call
+3	03:23:50.256	DLLSampleTester AUDUSD,H1: not initialized
+0	03:23:50.256	DLLSampleTester AUDUSD,H1: uninit reason 8
+0	03:23:50.284	Script DLLSampleTester AUDUSD,H1: removed
+0	03:24:10.024	Script Examples\DLL\DLLSampleTester AUDUSD,H1: loaded successfully
+3	03:24:10.103	Cannot load 'DLLSample.dll' [126]
+1	03:24:10.104	Cannot call 'DLLSample.dll::GetIntValue', 'DLLSample.dll' is not loaded
+1	03:24:10.127	DLLSampleTester AUDUSD,H1: unresolved import function call
+3	03:24:10.158	DLLSampleTester AUDUSD,H1: not initialized
+0	03:24:10.158	DLLSampleTester AUDUSD,H1: uninit reason 8
+0	03:24:10.194	Script DLLSampleTester AUDUSD,H1: removed
+0	03:24:15.156	Script Examples\DLL\DLLSampleTester EURUSD,M5: loaded successfully
+3	03:24:15.315	Cannot load 'DLLSample.dll' [126]
+1	03:24:15.316	Cannot call 'DLLSample.dll::GetIntValue', 'DLLSample.dll' is not loaded
+1	03:24:15.316	DLLSampleTester EURUSD,M5: unresolved import function call
+3	03:24:15.316	DLLSampleTester EURUSD,M5: not initialized
+0	03:24:15.316	DLLSampleTester EURUSD,M5: uninit reason 8
+0	03:24:15.319	Script DLLSampleTester EURUSD,M5: removed
+0	03:26:53.282	Expert TestingDll AUDUSD,H1: loaded successfully
+3	03:26:54.687	Cannot load 'Scripts\Examples\DLL\Libraries\DLLSample.dll' [126]
+1	03:26:54.687	Cannot call 'Scripts\Examples\DLL\Libraries\DLLSample.dll::GetIntValue', 'Scripts\Examples\DLL\Libraries\DLLSample.dll' is not loaded
+1	03:26:54.703	TestingDll AUDUSD,H1: unresolved import function call
+3	03:26:54.742	TestingDll AUDUSD,H1: not initialized
+0	03:26:54.742	TestingDll AUDUSD,H1: uninit reason 8
+0	03:26:54.783	Expert TestingDll AUDUSD,H1: removed
+0	03:33:02.503	Expert TestingDll AUDUSD,H1: loaded successfully
+0	03:33:03.655	TestingDll AUDUSD,H1: Returned value is 10
+0	03:33:03.655	TestingDll AUDUSD,H1: Returned value is 10.5
+0	03:33:03.655	TestingDll AUDUSD,H1: Returned value is some string
+0	03:33:03.655	TestingDll AUDUSD,H1: initialized
+0	03:33:10.619	TestingDll AUDUSD,H1: uninit reason 4
+0	03:33:10.763	Expert TestingDll AUDUSD,H1: removed
+0	04:19:39.122	Expert BuyNNDLL AUDUSD,H1: loaded successfully
+0	04:19:44.781	BuyNNDLL AUDUSD,H1: Returned value is 10
+0	04:19:44.781	BuyNNDLL AUDUSD,H1: initialized
+0	04:19:54.740	BuyNNDLL AUDUSD,H1: uninit reason 4
+0	04:19:54.828	Expert BuyNNDLL AUDUSD,H1: removed
+0	04:21:22.249	Expert BuyNNDLL AUDUSD,H1: loaded successfully
+0	04:21:23.427	BuyNNDLL AUDUSD,H1: Returned value is 10
+0	04:21:23.427	BuyNNDLL AUDUSD,H1: initialized
+0	04:21:28.596	BuyNNDLL AUDUSD,H1: uninit reason 4
+0	04:21:28.657	Expert BuyNNDLL AUDUSD,H1: removed
+0	04:22:08.895	Expert BuyNNDLL AUDUSD,H1: loaded successfully
+0	04:22:10.005	BuyNNDLL AUDUSD,H1: Returned value is 10
+0	04:22:10.005	BuyNNDLL AUDUSD,H1: initialized
+0	04:22:15.534	BuyNNDLL AUDUSD,H1: uninit reason 4
+0	04:22:15.586	Expert BuyNNDLL AUDUSD,H1: removed

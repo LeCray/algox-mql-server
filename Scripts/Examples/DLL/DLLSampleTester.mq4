@@ -1,9 +1,9 @@
 //+------------------------------------------------------------------+
 //|                                              DLLSampleTester.mq4 |
-//|                 Copyright © 2005-2016, MetaQuotes Software Corp. |
+//|                 Copyright ï¿½ 2005-2016, MetaQuotes Software Corp. |
 //|                                       http://www.metaquotes.net/ |
 //+------------------------------------------------------------------+
-#property copyright "Copyright © 2005-2016, MetaQuotes Software Corp."
+#property copyright "Copyright ï¿½ 2005-2016, MetaQuotes Software Corp."
 #property link      "http://www.metaquotes.net/"
 
 #import "DLLSample.dll"
@@ -13,7 +13,7 @@ string GetStringValue(string);
 double GetArrayItemValue(double &arr[],int,int);
 bool   SetArrayItemValue(double &arr[],int,int,double);
 double GetRatesItemValue(MqlRates &rates[],int,int,int);
-#import
+
 
 #define TIME_INDEX   0
 #define OPEN_INDEX   1

@@ -1,0 +1,6 @@
+0	06:15:17.931	Compiling 'BuyNNDLL'
+0	06:16:38.580	Expert BuyNNDLL AUDUSD,H1: loaded successfully
+0	06:16:39.927	BuyNNDLL AUDUSD,H1: Returned value is 20
+0	06:16:39.927	BuyNNDLL AUDUSD,H1: initialized
+0	06:16:52.139	BuyNNDLL AUDUSD,H1: uninit reason 4
+0	06:16:52.155	Expert BuyNNDLL AUDUSD,H1: removed
